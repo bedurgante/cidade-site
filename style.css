@@ -1,0 +1,45 @@
+h1{
+    text-align: center;
+    background-color: black;
+    color: chocolate;
+    height: 50px;
+    font-size: 45px;
+    }
+
+aside{
+    background-color: gold;
+    font-size: larger;
+    
+    
+    
+}
+
+.text{
+    background-color: gold;
+    font-size: larger;
+    width: 500px;
+    margin-left: 424px
+
+    
+}
+
+.imagem{
+    width: 300px;
+    margin-bottom: 90px;
+    margin-left: 350px;
+        
+
+}
+
+body{
+    background-image: url('anta-gorda-rs-1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.img2{
+    margin-bottom: 90px;
+    width: 300px;
+    margin-left: 20px;
+    
+}
